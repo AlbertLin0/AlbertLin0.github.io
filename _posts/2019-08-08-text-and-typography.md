@@ -1,8 +1,8 @@
 ---
 title: Text and Typography
-# author: albert
+author: Haibo_Hu
 date: 2019-08-08 11:33:00 +0800
-categories: [Blog, Demo]
+categories: [Blo, Demo]
 tags: [typography]
 pin: true
 math: true
