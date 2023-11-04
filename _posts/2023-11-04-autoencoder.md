@@ -2,7 +2,7 @@
 title: autoencoder
 author: Haibo_Hu
 date: 2023-11-04 11:33:00 +0800
-categories: [Book, 花书]
+categories: [Book, HUASHU]
 tags: [dushuzhujie]
 pin: true
 math: true
