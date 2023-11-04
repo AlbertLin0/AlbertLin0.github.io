@@ -12,3 +12,7 @@ mermaid: true
 
 *内容参考自花书P307*
 # autoencoder
+
+## what is autoencoder?
+
+&emsp;&emsp;笼统的理解为U-Net结构，两边宽中间窄的前向神经网络
